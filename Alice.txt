@@ -1,4 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 This is added to Alice from vim. New branch on github.
 
 This is on a new branch with bob edited on master
@@ -6,3 +7,6 @@ This is on a new branch with bob edited on master
 This is on a new branch with bob edited on master
 
 New Edit
+=======
+This is editted on the Github website
+>>>>>>> af4c485bab889bee6925b0c1a1790cf63d91ce75
